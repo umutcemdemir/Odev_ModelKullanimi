@@ -1,0 +1,1 @@
+# Odev3_ModelKullanimi
